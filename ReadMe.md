@@ -14,9 +14,6 @@
 # GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mayurdpatil67&theme=midnight-purple&hide_border=true)<br/>
 
-# GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mayurdpatil67&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
 </p>

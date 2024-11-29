@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=Mayurdpatil67&icon=5&color=13)](https://visitcount.itsvg.in)
+
 # About Me:
 Ask me about software developement <br>i'm currently learning Java-Springboot<br>
 
@@ -21,7 +23,7 @@ Ask me about software developement <br>i'm currently learning Java-Springboot<br
 ![](https://github-contributor-stats.vercel.app/api?username=Mayurdpatil67&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mayurdpatil67&icon=5&color=13)](https://visitcount.itsvg.in)
+
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />

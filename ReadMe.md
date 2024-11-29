@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
+![MasterHead](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
 
 [![](https://visitcount.itsvg.in/api?id=Mayurdpatil67&icon=5&color=13)](https://visitcount.itsvg.in)
 <p>

@@ -1,8 +1,9 @@
 [![](https://visitcount.itsvg.in/api?id=Mayurdpatil67&icon=5&color=13)](https://visitcount.itsvg.in)
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm a Software Developer/Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=00FF00&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Developer;I+Love+Coding;I'm+a+Tech+Enthusiast;Always+Learning+New+Things" />
 </p>
+
 
 # About Me:
 Ask me about software developement <br>i'm currently learning Java-Springboot<br>

@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=Mayurdpatil67&icon=5&color=13)](https://visitcount.itsvg.in)
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=00FF00&size=20&lines=Hi,+I'm+Mayur+Patil!;I'm+a+Software+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=00FF00&size=20&lines=Welcome+To+My+GitHub+Profile;Hi,+I'm+Mayur+Patil!;I'm+a+Software+Developer;Always+Learning+New+Things" />
 </p>
 
 # About Me:

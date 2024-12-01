@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Mayurdpatil67&icon=5&color=13)](https://visitcount.itsvg.in)
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=00FF00&size=20&lines=Hi!+Welcome+To+My+GitHub+Profile..;I'm+Mayur+Patil..;A+Software+Developer..;Always+Learning+New+Things.." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=00FF00&size=20&lines=Hi!+Welcome+To+My+GitHub+Profile..;My+Name+Is+Mayur..;A+Software+Developer..;Always+Learning+New+Things.." />
 </p>
 
 # About Me:

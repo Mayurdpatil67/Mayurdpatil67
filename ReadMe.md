@@ -6,7 +6,7 @@
 </p>
 
 # About Me:
-<br>i'm currently working on stripe payment integration in Java-Springboot<br>
+<br>I am currently stuck with the Java ecosystem and learning it <br>
 
 # Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mayurstwt1) 

@@ -26,7 +26,8 @@
 <img align="left" alt="Socket.io" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" />
 
 
-# GitHub Stats:![](https://github-readme-streak-stats.herokuapp.com/?user=Mayurdpatil67&theme=midnight-purple&hide_border=true)<br/>
+# GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mayurdpatil67&theme=midnight-purple&hide_border=true)<br/>
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />

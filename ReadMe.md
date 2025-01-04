@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=Mayurdpatil67&icon=5&color=13)](https://visitcount.itsvg.in)
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=00FF00&size=20&lines=Hi!+Welcome+to+my+GitHub+profile..;My+name+is+Mayur..;A+programmer+|+developer..;Always+learning+new+things.." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=00FF00&size=20&lines=Hi!+Welcome+to+my+GitHub+profile..;My+name+is+Mayur..;A+programmer+|+developer..;Always+learning+new+things..." />
 </p>
 
 # About Me:

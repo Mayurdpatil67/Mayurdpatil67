@@ -7,9 +7,8 @@
 </p>
 
 # About Me:
-<br>I am currently stuck with the Java ecosystem
-    Reche Me At : mayur.patil6911@gmail.com
-<br>
+<br>I am currently stuck with the Java ecosystem<br>
+<br>Reche Me At : mayur.patil6911@gmail.com<br>
 
 
 # Reach Me:

@@ -10,7 +10,7 @@
 <br>I am currently stuck with the Java ecosystem and learning it <br>
 
 # Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mayurstwt1)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mayurstwt1)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-patil-6b6b77233/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/1315647794131763261)
 

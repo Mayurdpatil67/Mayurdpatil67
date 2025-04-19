@@ -19,15 +19,11 @@
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=2oBx9FpXcbLa&format=png&color=000000" />
-<br/> 
-<img align="left" alt="REST API" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=fCpFM6zlmvhV&format=png&color=000000" />
-<br/>
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=dBjpTejEJlXl&format=png&color=000000" />
-<br/>
-<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=0hWxKBxhI6sm&format=png&color=000000" />
-<br/>
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://img.icons8.com/?size=100&id=p8r2HhMlWy7F&format=png&color=000000" />
-<br/>
+<img align="left" alt="REST API" width="30px" style="padding-right:10px;" src="https://img.icons8.com/ios/50/000000/rest-api.png" />
+<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://img.icons8.com/ios/50/000000/mysql-logo.png" />
+<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="https://img.icons8.com/ios/50/000000/postman-api.png" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://img.icons8.com/ios/50/000000/linux.png" />
+
 
 
 # GitHub Stats:

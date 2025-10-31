@@ -1,5 +1,5 @@
 # About Me:
-<br>I am a fresher developer from Pune, Exploring Java, Spring Boot and backend developement.<br>
+<br>I’m a fresher developer from Pune, currently exploring Java, Spring Boot, and backend development, with interest in cloud technologies.<br>
 
 # Socials:
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF.svg?logo=hashnode&logoColor=white)](https://hashnode.com/@mayur617)

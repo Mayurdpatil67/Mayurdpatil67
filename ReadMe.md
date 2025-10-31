@@ -2,8 +2,6 @@
 <br>I am a fresher developer from Pune, Exploring Java, Spring Boot and backend developement.<br>
 
 # Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/mayurstwt1)
-[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white)](https://discord.com/users/1315647794131763261)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF.svg?logo=hashnode&logoColor=white)](https://hashnode.com/@mayur617)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-patil-6b6b77233/)
 
